@@ -1,0 +1,16 @@
+body{
+   margin-top: 20%;
+   margin-left: 35%;
+   margin-right: 30%;
+}
+#container{
+    background-color: white;
+    box-shadow: 0 0  5px black;
+    padding: 10% ;
+}
+button{
+    margin-left: 30%;
+    background-color: black;
+    color: aliceblue;
+    padding: 5%;
+}
